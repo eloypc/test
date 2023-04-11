@@ -1,4 +1,1 @@
-Cambio en el Texto del primer archivo a comitear
-Nuevo codigo añadido en el archivo
-
-Cambios para provocar conflicto
+Feature REQ_002 en Primer fichero del repositorio
