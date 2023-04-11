@@ -1,4 +1,4 @@
 Cambio en el Texto del primer archivo a comitear
 Nuevo codigo añadido en el archivo
 
-Cambios para provocar conflicto
+Nuevos cambios añadidos
