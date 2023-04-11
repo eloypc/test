@@ -2,3 +2,5 @@ Cambio en el Texto del primer archivo a comitear
 Nuevo codigo añadido en el archivo
 
 Nuevos cambios añadidos
+Feature REQ_002 en Primer fichero del repositorio
+Ahora añadimos código nuevo para una nueva funcionalidad que tenemos que entregar a cliente
